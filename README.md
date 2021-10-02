@@ -1,1 +1,1 @@
-# r_project
+# Cure Rate_project
